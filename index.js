@@ -2,7 +2,7 @@ require ('dotenv').config();
 
 const { Bot, Keyboard, InlineKeyboard, GrammyError, HttpError } = require ('grammy');
 
-// const bot = new Bot('6630608887:AAFP4gyYv0G36IKqDUurTsqI5ZAxXil57DI');
+
 const bot = new Bot(process.env.BOT_API_KEY);
 
 const { getRandomQuestion } = require('./utils');
