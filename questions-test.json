@@ -1,0 +1,38 @@
+{
+    "theme1": [
+        {
+            "id": 1,
+            "text": "Question 1 ...",
+            "hasOptions": true,
+            "options": [
+                { "id": 1, "text": "answer for question 1 variant 1", "isCorrect": false },
+                { "id": 2, "text": "answer for question 1 variant 2!", "isCorrect": true },
+                { "id": 3, "text": "answer for question 1 variant 3", "isCorrect": false },
+                { "id": 4, "text": "answer for question 1 variant 4", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "Question 2 ...",
+            "hasOptions": true,
+            "options": [
+                { "id": 1, "text": "answer for question 2 variant 1", "isCorrect": false },
+                { "id": 2, "text": "answer for question 2 variant 2", "isCorrect": false },
+                { "id": 3, "text": "answer for question 2 variant 3!", "isCorrect": true },
+                { "id": 4, "text": "answer for question 2 variant 4", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "Question 3 ...",
+            "hasOptions": true,
+            "options": [
+                { "id": 1, "text": "answer for question 3 variant 1!", "isCorrect": true },
+                { "id": 2, "text": "answer for question 3 variant 2", "isCorrect": false },
+                { "id": 3, "text": "answer for question 3 variant 3", "isCorrect": false },
+                { "id": 4, "text": "answer for question 3 variant 4", "isCorrect": false }
+            ]
+        }
+    ]
+
+}
